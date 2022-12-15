@@ -12,6 +12,7 @@
 	<artifactId>JenkinsDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>JenkinsDemo</name>
+	<packaging>war</packaging>
 	<description>DemoExample</description>
 	<properties>
 		<java.version>1.8</java.version>
